@@ -92,18 +92,12 @@ My work spans **sports and sponsorship analytics, healthcare payment integrity, 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejasb11802&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasb11802&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tejasb11802&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasb11802&theme=tokyonight)
 
----
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejasb11802&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasb11802&theme=tokyonight)
 
-<div align="center">
-  <sub>Turning data into decisions, one project at a time.</sub>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Tejasb11802&color=9F7AEA&style=flat-square&label=Profile+Views" alt="Profile views" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Tejasb11802&theme=tokyonight&hide_border=true)
+
 </div>
