@@ -93,11 +93,15 @@ My work spans **sports and sponsorship analytics, healthcare payment integrity, 
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasb11802&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=Tejasb11802&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejasb11802&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasb11802&theme=tokyonight)
+  <br /><br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tejasb11802&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/Tejasb11802?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tejasb11802?style=for-the-badge&logo=github&label=Followers&color=9F7AEA" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Tejasb11802?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Tejasb11802?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=9F7AEA" alt="GitHub stars" />
+  </a>
 
 </div>
