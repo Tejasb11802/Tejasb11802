@@ -1,20 +1,109 @@
-# Hi, I'm Tejas Prashant Bhanushali
-💫 About Me:<br>Graduate student in Data Science at ASU with a strong interest in transforming raw information into impactful business insights. I bring hands-on experience in Python, SQL, and tools like Tableau and Power BI to analyze and visualize data effectively. My work ranges from developing real-time dashboards to applying NLP and machine learning techniques for predictive insights and sentiment analysis. I'm always eager to contribute to projects in data science, analytics, and business intelligence, especially those that turn complex data into clear, actionable outcomes.<br><br>🔭 I’m currently working on<br>Sentiment analysis and real-time trend prediction projects using Python, NLP, and Streamlit.<br>Interactive Tableau dashboards and Power BI reports to visualize cryptocurrency and sales data.<br>AI-powered marketing tools and sentiment analysis projects using Python, NLP, and Streamlit.<br><br>🤝 I’m looking to collaborate on<br>Data science, machine learning, and full-stack web development projects, especially those involving real-time analytics or social impact.<br>Data analytics, dashboard development, and machine learning projects that solve real-world business problems.<br><br>🧠 I’m looking for help with<br>Advanced applications of deep learning, particularly in large language models and object detection.<br>Optimizing data pipelines and mastering advanced analytics techniques in Python and SQL.<br><br>🌱 I’m currently learning<br>How to turn raw data into actionable insights using predictive modeling and data visualization tools.<br>Data preprocessing techniques and cloud-based analytics as part of my master's coursework.<br>How to deploy scalable AI solutions using tools like PyTorch and TensorFlow.<br><br>💬 Ask me about<br>My internship experience using MySQL, Power BI, and Python to drive business decisions.<br>How I designed dashboards to communicate data stories and support data-driven strategies.<br><br>⚡ Fun fact<br>I’ve led both football teams on the field and data projects off the field, teamwork is my default mode!<br><br>
+# 🚀 Hi, I'm Tejas Prashant Bhanushali!
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=MS+in+Data+Science+%40+Arizona+State+University;Data+Analyst+%7C+AI+%26+ML+Engineer;Building+analytics+products+that+drive+decisions;Sports+analytics+meets+data+science" alt="Typing introduction" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-b-6a28aa263/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=tbhanus1@asu.edu)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tejasb11802&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tejasb11802&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasb11802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-b-6a28aa263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tbhanus1@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Tejasb11802"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tejasb11802&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+I am a **Data Scientist and Analytics Engineer** with an **M.S. in Data Science, Analytics and Engineering from Arizona State University**. I build data products that turn complex information into clear decisions, from business intelligence dashboards and predictive models to AI agents and scalable data pipelines.
+
+My work spans **sports and sponsorship analytics, healthcare payment integrity, semiconductor yield intelligence, customer intelligence, supply chain analytics, and real-time data systems**. As a former regional-level soccer player, I bring both technical skill and domain understanding to sports data problems.
+
+- 🔭 **Current focus:** Applied AI, analytics engineering, intelligent agents, and decision-support products
+- 🧠 **Core strengths:** Python, SQL, Power BI, Tableau, machine learning, ETL, data visualization, and business analytics
+- 🎓 **Education:** M.S. in Data Science, Analytics and Engineering | Arizona State University
+- 💼 **Open to:** Data Analyst, BI Analyst, Data Scientist, Analytics Engineer, and AI/ML Engineer roles
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Data Science & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat-square) |
+| **Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **Data Engineering** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **Applications & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+
+---
+
+## 🌟 Featured Projects
+
+### 🏟️ [SponsorLift](https://github.com/Tejasb11802/sponsorlift)
+
+> **Cross-Screen Sports Sponsorship Intelligence Platform**
+
+- Built an analytics case study that connects broadcast and social exposure to evaluate sponsorship performance across screens.
+- Added seasonality-aware analysis to prevent off-season activity from being misread as declining sponsor value.
+- **Tech Stack:** `Python`, `Streamlit`, `Pandas`, `Plotly`, `Sports Analytics`
+
+### ⚽ [WC2026 Intelligence Hub](https://github.com/Tejasb11802/wc2026-analytics)
+
+> **World Cup Analytics and Machine Learning Platform**
+
+- Developed an interactive football intelligence hub for exploring team performance, tournament trends, and match predictions.
+- Combined domain knowledge with statistical analysis and machine learning to make football data easier to interpret.
+- **Tech Stack:** `Python`, `Machine Learning`, `Streamlit`, `Data Visualization`
+
+### 🏭 [YieldSense AI](https://github.com/Tejasb11802/yieldsense-ai)
+
+> **Semiconductor Yield Intelligence System**
+
+- Created an AI-driven analytics application for monitoring manufacturing yield, identifying anomalies, and surfacing operational insights.
+- Connected a FastAPI backend with an interactive React interface and machine learning workflows.
+- **Tech Stack:** `FastAPI`, `React`, `Python`, `Machine Learning`, `Data Analytics`
+
+### 📉 [Customer Churn Intelligence Dashboard](https://github.com/Tejasb11802/customer-churn-dashboard)
+
+> **End-to-End Telecom Churn Prediction and Business Intelligence Solution**
+
+- Analyzed **7,032 telecom customers** and built a Random Forest model achieving **78.5% prediction accuracy**.
+- Identified **1,659 high-risk customers** representing approximately **$133,457 in monthly revenue at risk**.
+- Developed an executive Tableau dashboard for churn segmentation, contract analysis, customer risk scoring, and retention planning.
+- **Tech Stack:** `Python`, `Pandas`, `scikit-learn`, `Random Forest`, `Tableau`, `Matplotlib`, `Seaborn`
+
+### 🤖 [ShiftSense AI](https://github.com/Tejasb11802/shiftsense-ai)
+
+> **Multi-Agent Industrial Shift Intelligence**
+
+- Built a three-agent LangGraph workflow that transforms industrial shift data into structured analysis and actionable recommendations.
+- Designed the system to coordinate specialized agents across data interpretation, issue detection, and operational reporting.
+- **Tech Stack:** `LangGraph`, `Python`, `LLM Agents`, `Data Pipelines`
+
+### 🔗 [Distributed Graph Streaming & Analytics](https://github.com/Tejasb11802/distributed-graph-streaming-platform)
+
+> **Real-Time Graph Data Pipeline**
+
+- Developed a distributed pipeline that streams transactional data through Kafka into Neo4j for graph-based analysis.
+- Applied graph algorithms and containerized the platform using Docker, Kubernetes, and Minikube.
+- **Tech Stack:** `Apache Kafka`, `Neo4j`, `Docker`, `Kubernetes`, `Python`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejasb11802&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasb11802&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tejasb11802&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Turning data into decisions, one project at a time.</sub>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Tejasb11802&color=9F7AEA&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
